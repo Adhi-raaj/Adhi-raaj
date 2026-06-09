@@ -2,15 +2,15 @@
 
 **AI & Data Science Engineer** · B.Tech @ MITS Gwalior (2027) · Top 5% NPTEL LLMs (IIT Madras)
 
-Building deep learning pipelines for real-world healthcare — CNNs, U-Net segmentation, YOLOv8, LLMs.
+Building deep learning pipelines for real-world healthcare — CNNs, U-Net segmentation, YOLOv8, Knowledge Distillation, LLMs.
 
 ---
 
 ### 🔬 Featured Projects
 | Project | Stack | Description |
 |---|---|---|
+| **Skin Lesion Classification with Knowledge Distillation** | EfficientNet-B3 · MobileNet · PyTorch · Knowledge Distillation | 90.62% accuracy with 5.3× compression & 2.5× faster inference — mobile-ready dermatology model |
 | Oral Cancer Detection | U-Net · YOLOv8 · OpenCV | Dual-stage lesion segmentation pipeline |
-| Skin Cancer Classifier | CNN · Streamlit · Flask | Real-time dermatology classification app |
 | Document Denoising | PyTorch · U-Net Autoencoder | Archival paper restoration system |
 | Face Attendance System | OpenCV · Haar Cascade | Hackathon — live webcam recognition |
 
@@ -35,13 +35,13 @@ Building deep learning pipelines for real-world healthcare — CNNs, U-Net segme
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
