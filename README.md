@@ -53,7 +53,10 @@ Building deep learning pipelines for real-world healthcare — CNNs, U-Net segme
 ---
 
 ### 📊 GitHub Stats
-![Adhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adhi-raaj&show_icons=true&theme=default)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adhi-raaj&theme=default)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhi-raaj&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
